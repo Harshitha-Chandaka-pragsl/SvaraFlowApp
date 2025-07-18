@@ -23,4 +23,7 @@
         <item name="android:clickable">true</item>
         <item name="android:focusable">true</item>
     </style>
+
+    <style name="RazorpayTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
 </resources>
